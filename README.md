@@ -1,0 +1,1 @@
+Dental Clinic System, The Desktop application in Java language using Netbeans IDE.This is a group Project of four members. We have done this application for the Real Client who is running a Dental Clinic named "Happy Smile" at Wattala, Colombo-03.
